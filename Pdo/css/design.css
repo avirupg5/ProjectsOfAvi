@@ -1,0 +1,96 @@
+input[type=text] {
+  width: 30%;
+  background-color: #2E4053;
+  color: #817C7C;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.yup{
+	background-color: #1B2631;
+	width: 50%;
+	border-radius: 6px;
+
+}
+#zxc{
+		color: #ffff;
+	margin-left: -120px;
+
+}
+#zxc1{
+	
+	color: #ffff;
+	margin-left: -135px;
+
+}
+#zxc2{
+	/*text-transform: uppercase;*/
+	color: #ffff;
+	margin-left: -160px;
+
+}
+#zxc3{
+	/*text-transform: uppercase;*/
+	color: #ffff;
+
+	
+
+}
+#zxc4{
+	/*text-transform: uppercase;*/
+	color: #ffff;
+	/*margin-left: -100px;*/
+
+}
+#zxc5{
+	/*text-transform: uppercase;*/
+	color: #ffff;
+	margin-left: -80px;
+
+}
+#ij{
+color: #0534F2;
+cursor: pointer;
+}
+#fol{
+	color: #ffff;
+}
+#file{
+	color: #ffff;
+	margin-right: -90px;
+	/*cursor: pointer;*/
+}
+#nnp{
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	color: #ffff;
+	 font-border:2px;
+
+}
+.pog{
+	background-image: url("../images/bgrf.jpg");
+}
+input[type=password] {
+  width: 30%;
+  background-color: #2E4053;
+  color: #817C7C;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 25%;
+  background-color: #cc0000;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

@@ -1,0 +1,50 @@
+.bdk{
+  
+  font-family: 'Comfortaa', cursive;
+  color: #ffff;
+  
+}
+input[type=text] {
+  width: 30%;
+  background-color: #2E4053;
+  color: #817C7C;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=password] {
+  width: 30%;
+  background-color: #2E4053;
+  color: #817C7C;
+  padding: 10px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 20%;
+  background-color: #cc0000;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.ozx{
+	margin-top: 200px;
+	background-color: #1B2631;
+	width: 50%;
+	border-radius: 6px;
+
+}
+#pnm{
+		color: #ffff;}
+.mbb{
+	background-image: url("../images/bgrf.jpg");
+}

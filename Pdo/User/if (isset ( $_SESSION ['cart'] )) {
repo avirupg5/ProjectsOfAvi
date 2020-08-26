@@ -1,0 +1,7 @@
+if (isset ( $_SESSION ['cart'] )) {
+		$cart = unserialize ( serialize ( $_SESSION ['cart'] ) );
+		for($i = 0; $i < count ( $cart ); $i ++)
+		if ($cart [$i]->id == $_GET ['id']) {
+			$index = $i;
+			break;
+		}
